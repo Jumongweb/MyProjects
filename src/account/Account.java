@@ -3,7 +3,6 @@ package account;
 public class Account {
     private int accountNumber;
     private double balance;
-    private int testing;
     private int number;
     private String customerName;
     private String email;
